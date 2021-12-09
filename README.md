@@ -1,5 +1,4 @@
-# Assembly-language-
-Bubble Sorting
+# Assembly-language-Bubble Sorting
 
 Purpose:
 Declare a data (SortData) with an array size of i, whose value is any number from 00 to 0FH. Write another macro or subprogram named sort, sort the SortData from large to small, and output the result to the screen
