@@ -8,3 +8,5 @@ Use Bubble Sorting to start from the front of the array, compare the two nearest
 1. After we compare all the elements once, we can ensure that the element with the smallest value is at the end
 2. Then subtract the last element in the array just now (because it has been determined to be the smallest), and then repeat the above steps to compare
 3. Repeat the above actions until the sorting is completed.
+
+![image](https://user-images.githubusercontent.com/57763355/145403125-3a89ca96-5911-495e-ba40-0f22d5791f72.png)
